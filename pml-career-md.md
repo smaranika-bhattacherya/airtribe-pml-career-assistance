@@ -196,6 +196,18 @@ Career Assistance is available to all learners enrolled in the AI-First Product 
 
 ---
 
+**Q16. What happens if I schedule a mock interview but do not attend?**
+If a learner fails to attend a scheduled mock interview on two consecutive occasions without prior notice, their Mock Interview section on the Airtribe Dashboard will be paused for 15 days. During this period, no new mock requests can be submitted. Access is automatically restored once the 15-day pause has elapsed.
+
+---
+
+**Q17. Is there a way to avoid the 15-day pause for non-attendance?**
+If you are unable to attend a scheduled mock, notify your Program Manager in advance. Proactive communication may be taken into consideration. Repeated no-shows without prior notice will result in the 15-day access pause as a standard consequence.
+
+
+
+
+
 ## Process Summary
 
 | Stage | Milestone | Outcome |
@@ -205,6 +217,7 @@ Career Assistance is available to all learners enrolled in the AI-First Product 
 | 3 | All 3 profiles approved | Access to `#job-opportunities-product` + Mock eligibility |
 | 4 | All 3 mocks qualified | Inducted into Priority Hiring Pool |
 | 5 | Priority Hiring Pool | Active placement support and hiring partner advocacy |
+| 6 | No-show on 2 consecutive scheduled mocks | 15 days (access paused) | Mock Interview section on the Dashboard will be paused. Access is restored after 15 days.
 
 ---
 
