@@ -82,7 +82,7 @@ Airtribe conducts three sequential mock interviews, each simulating a distinct P
 |---------|---------------|-------------|
 | Qualified | 3 days | Request the next mock via the Dashboard |
 | Disqualified (first attempt) | 7 days | Request the same mock again via the Dashboard |
-| Disqualified (two consecutive attempts) | — | Eligible for 1:1 mentorship support. Contact your Program Manager directly. Once mentorship is done, mock can be requester after 3 days. |
+| Disqualified (two consecutive attempts) | — | Eligible for 1:1 mentorship support. Contact your Program Manager directly. Once mentorship is done, mock can be requested after 3 days. |
 | No-show on 2 consecutive scheduled mocks | 15 days (access paused) | Mock Interview section on the Dashboard will be paused. Access is restored after 15 days. |
 
 ### How to Request a Mock Interview
