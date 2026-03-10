@@ -241,7 +241,7 @@ Once you have **qualified all three mock interviews**, you enter the **Priority 
 
 ---
 
-*For any queries related to the Career Assistance process, please reach out to your Program Manager on the cohort Slack channel.*
+*For any queries related to the Career Assistance process, please reach out to your Program Manager*
 
 ---
 > © Airtribe | AI-First Product Management Program
